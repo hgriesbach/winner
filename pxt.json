@@ -1,5 +1,6 @@
 {
-    "name": "winner",
+    "name": "Winner",
+    "description": "",
     "dependencies": {
         "device": "*"
     },
